@@ -1,4 +1,3 @@
 # wfdp-docker-eks
-Test staging
-
+Run Unit Tests
 Airflow Docker image used in AWS EKS cluster
